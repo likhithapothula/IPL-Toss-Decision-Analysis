@@ -66,7 +66,8 @@ Key fields include:
 | MA Chidambaram Stadium, Chennai | 98 | 54.08% | 45.92% | Bat First |
 | Wankhede Stadium, Mumbai | 132 | 45.45% | 54.55% | Bowl First |
 
-Power BI dashboard screenshot.png
+[Power BI dashboard screenshot.png
+](https://github.com/likhithapothula/IPL-Toss-Decision-Analysis/blob/3bd17248d62c5537977daa6c162b9038554ce5c4/Power%20BI%20dashboard%20screenshot.png)
 
 ### Business Insights
 
