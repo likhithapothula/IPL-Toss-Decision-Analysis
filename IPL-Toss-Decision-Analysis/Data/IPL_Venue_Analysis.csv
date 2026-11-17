@@ -1,0 +1,39 @@
+venue,total_matches,batting_first_wins,chasing_wins,avg_first_innings_score,batting_first_win_pct,chasing_win_pct,toss_recommendation,sample_reliability
+"Wankhede Stadium, Mumbai",132,60,72,173.13,45.45,54.55,Bowl First,Better Sample
+"Eden Gardens, Kolkata",105,45,60,169.7,42.86,57.14,Bowl First,Better Sample
+"Arun Jaitley Stadium, Delhi",103,48,55,172.88,46.6,53.4,Bowl First,Better Sample
+"M Chinnaswamy Stadium, Bengaluru",101,44,57,174.78,43.56,56.44,Bowl First,Better Sample
+MA Chidambaram Stadium,98,53,45,165.56,54.08,45.92,Bat First,Better Sample
+"Rajiv Gandhi International Stadium, Uppal",89,40,49,168.74,44.94,55.06,Bowl First,Better Sample
+"Sawai Mansingh Stadium, Jaipur",68,24,44,169.06,35.29,64.71,Bowl First,Better Sample
+"Punjab Cricket Association IS Bindra Stadium, Mohali",61,27,34,168.28,44.26,55.74,Bowl First,Better Sample
+Dubai International Cricket Stadium,46,23,23,163.76,50.0,50.0,No Clear Advantage,Better Sample
+"Narendra Modi Stadium, Ahmedabad",45,20,25,183.53,44.44,55.56,Bowl First,Better Sample
+"Maharashtra Cricket Association Stadium, Pune",42,22,20,164.79,52.38,47.62,Bat First,Better Sample
+"Dr DY Patil Sports Academy, Navi Mumbai",37,17,20,159.65,45.95,54.05,Bowl First,Better Sample
+"Sheikh Zayed Stadium, Abu Dhabi",37,16,21,158.89,43.24,56.76,Bowl First,Better Sample
+"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",28,12,16,176.57,42.86,57.14,Bowl First,Moderate
+Sharjah Cricket Stadium,28,10,18,159.04,35.71,64.29,Bowl First,Moderate
+"Brabourne Stadium, Mumbai",27,14,13,178.52,51.85,48.15,Bat First,Moderate
+"Himachal Pradesh Cricket Association Stadium, Dharamsala",18,11,7,195.06,61.11,38.89,Bat First,Low
+"Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium, Visakhapatnam",17,8,9,169.53,47.06,52.94,Bowl First,Low
+"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",17,8,9,186.59,47.06,52.94,Bowl First,Low
+"Kingsmead, Durban",15,8,7,152.0,53.33,46.67,Bat First,Low
+"SuperSport Park, Centurion",12,4,8,154.83,33.33,66.67,Bowl First,Low
+"Saurashtra Cricket Association Stadium, Rajkot",10,3,7,168.9,30.0,70.0,Bowl First,Low
+"Subrata Roy Sahara Stadium, Pune",9,6,3,151.11,66.67,33.33,Bat First,Very Low
+"Holkar Cricket Stadium, Indore",9,1,8,160.33,11.11,88.89,Bowl First,Very Low
+"Shaheed Veer Narayan Singh International Stadium, Raipur",8,2,6,154.5,25.0,75.0,Bowl First,Very Low
+"Barsapara Cricket Stadium, Guwahati",8,4,4,168.88,50.0,50.0,No Clear Advantage,Very Low
+"Sardar Patel Stadium, Motera, Ahmedabad",8,6,2,164.62,75.0,25.0,Bat First,Very Low
+"Wanderers Stadium, Johannesburg",8,3,5,144.0,37.5,62.5,Bowl First,Very Low
+"Barabati Stadium, Cuttack",7,4,3,167.71,57.14,42.86,Bat First,Very Low
+"JSCA International Stadium Complex, Ranchi",7,2,5,149.0,28.57,71.43,Bowl First,Very Low
+"St George's Park, Port Elizabeth",7,3,4,159.0,42.86,57.14,Bowl First,Very Low
+"Newlands, Cape Town",7,5,2,139.43,71.43,28.57,Bat First,Very Low
+"Nehru Stadium, Kochi",5,3,2,146.8,60.0,40.0,Bat First,Very Low
+"Green Park, Kanpur",4,0,4,161.25,0.0,100.0,Bowl First,Very Low
+"Buffalo Park, East London",3,2,1,147.33,66.67,33.33,Bat First,Very Low
+"Diamond Oval, Kimberley",3,1,2,158.0,33.33,66.67,Bowl First,Very Low
+"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",3,2,1,149.33,66.67,33.33,Bat First,Very Low
+"Mangaung Oval, Bloemfontein",2,1,1,135.0,50.0,50.0,No Clear Advantage,Very Low
