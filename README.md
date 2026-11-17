@@ -66,6 +66,9 @@ Key fields include:
 | MA Chidambaram Stadium, Chennai | 98 | 54.08% | 45.92% | Bat First |
 | Wankhede Stadium, Mumbai | 132 | 45.45% | 54.55% | Bowl First |
 
+![Uploading Power BI dashboard screenshot.png…]()
+
+
 ### Business Insights
 
 - Sawai Mansingh Stadium shows a historical chasing advantage.
